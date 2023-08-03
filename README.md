@@ -1,4 +1,4 @@
-# README
+# airline-reviews
 
 #### Description
 Scripts for working with dataset [airline-reviews-128k-sentiment-analysis](https://www.kaggle.com/datasets/joelljungstrom/128k-airline-reviews) from Kaggle
